@@ -29,6 +29,6 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 [Best Time to Buy and Sell Stock](Day4/BestTimeToBuyandSell/main.py) <br>
 [Calculate Money in Leetcode Bank](Day4/CalcMoneyInLCBank/main.py)<br>
 [Majority Element](Day4/MajorityElement/main.py) <br>
-[Minimize String Length](Day4/PascalTriangle/main.py) <br>
-[Most Common Words](Day4/PascalTriangleII/main.py) <br>
+[Pascal's Triangle](Day4/PascalTriangle/main.py) <br>
+[Pascal's Triangle II](Day4/PascalTriangleII/main.py) <br>
 [Power of Two](Day4/PowerOfTwo/main.py) <br>
