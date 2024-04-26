@@ -25,3 +25,10 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 [Reverse Linked List](Day3/ReverseLinkedList/main.py)<br>
 [Sum of All Odd Length Subarrays](Day3/SumofAllOddLengthSubArrays/main.py) <br>
 
+### Day 4: <br>
+[Best Time to Buy and Sell Stock](Day4/BestTimeToBuyandSell/main.py) <br>
+[Calculate Money in Leetcode Bank](Day4/CalcMoneyInLCBank/main.py)<br>
+[Majority Element](Day4/MajorityElement/main.py) <br>
+[Minimize String Length](Day4/PascalTriangle/main.py) <br>
+[Most Common Words](Day4/PascalTriangleII/main.py) <br>
+[Power of Two](Day4/PowerOfTwo/main.py) <br>
