@@ -22,7 +22,6 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 [Find Common Characters](Day3/FindCommonCharacters/main.py) <br>
 [Minimize String Length](Day3/MinimizeStringLength/main.py) <br>
 [Most Common Words](Day3/MostCommonWord/main.py) <br>
+[Reverse Linked List](Day3/ReverseLinkedList/main.py)<br>
 [Sum of All Odd Length Subarrays](Day3/SumofAllOddLengthSubArrays/main.py) <br>
 
-### Day 4: <br>
-[Reverse Linked List](Day4/ReverseLinkedList/main.py)<br>
