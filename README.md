@@ -28,7 +28,14 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 ### Day 4: <br>
 [Best Time to Buy and Sell Stock](Day4/BestTimeToBuyandSell/main.py) <br>
 [Calculate Money in Leetcode Bank](Day4/CalcMoneyInLCBank/main.py)<br>
+[First Bad Version](Day4/FirstBadVersion/main.py) <br>
 [Majority Element](Day4/MajorityElement/main.py) <br>
+[Move Zeros](Day4/MoveZeros/main.py) <br>
 [Pascal's Triangle](Day4/PascalTriangle/main.py) <br>
 [Pascal's Triangle II](Day4/PascalTriangleII/main.py) <br>
 [Power of Two](Day4/PowerOfTwo/main.py) <br>
+[Ugly Number](Day4/UglyNumber/main.py) <br>
+
+### Day 5: <br>
+[Longest Common Prefix](Day5/LongestCommonPrefix/main.py) <br>
+[Word Pattern](Day5/WordPattern/main.py)<br>
