@@ -38,7 +38,7 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 
 ### Day 5: <br>
 [Longest Common Prefix](Day5/LongestCommonPrefix/main.py) <br>
-[Plus One](Day5/PlusOne/main.py)
-[Remove Duplicates from Sorted Array](Day5/RemoveDupesFromSortArr/main.py)
-[Search Insert Position](Day5/SearchInsertPosition/main.py)
+[Plus One](Day5/PlusOne/main.py) <br>
+[Remove Duplicates from Sorted Array](Day5/RemoveDupesFromSortArr/main.py) <br>
+[Search Insert Position](Day5/SearchInsertPosition/main.py) <br>
 [Word Pattern](Day5/WordPattern/main.py)<br>
