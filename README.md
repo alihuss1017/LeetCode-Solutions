@@ -42,3 +42,11 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 [Remove Duplicates from Sorted Array](Day5/RemoveDupesFromSortArr/main.py) <br>
 [Search Insert Position](Day5/SearchInsertPosition/main.py) <br>
 [Word Pattern](Day5/WordPattern/main.py)<br>
+
+
+### Day 6:
+[Article Views I](Day6/ArticleViewsI/main.sql) <br>
+[Big Countries](Day6/BigCountries/main.sql) <br>
+[Find Customer Referee](Day6/FindCustomerReferee/main.sql) <br>
+[Invalid Tweets](Day6/InvalidTweets/main.sql) <br>
+[Recyclable and Low Fat Products](Day6/RecyclableandLowFatProducts/main.sql) <br>
