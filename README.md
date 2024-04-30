@@ -53,7 +53,7 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 
 
 ### Day 7: 
-[Replace Employee ID With the Unique Identifier](Day7/RepEmpIDWithUniqueIdentifier/main.sql)
-[Product Sales Analysis I](Day7/ProductSalesAnlysisI/main.sql)
-[customer Who Visited but Did Not Make Any Transactions](Day7/CustWhoVisNoTransactions/main.sql)
-[Rising Temperature](Day7/RisingTemperature/main.sql)
+[Replace Employee ID With the Unique Identifier](Day7/RepEmpIDWithUniqueIdentifier/main.sql) <br>
+[Product Sales Analysis I](Day7/ProductSalesAnlysisI/main.sql) <br>
+[customer Who Visited but Did Not Make Any Transactions](Day7/CustWhoVisNoTransactions/main.sql) <br>
+[Rising Temperature](Day7/RisingTemperature/main.sql) <br>
