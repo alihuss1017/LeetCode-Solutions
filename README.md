@@ -50,3 +50,10 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 [Find Customer Referee](Day6/FindCustomerReferee/main.sql) <br>
 [Invalid Tweets](Day6/InvalidTweets/main.sql) <br>
 [Recyclable and Low Fat Products](Day6/RecyclableandLowFatProducts/main.sql) <br>
+
+
+### Day 7: 
+[Replace Employee ID With the Unique Identifier](Day7/RepEmpIDWithUniqueIdentifier/main.sql)
+[Product Sales Analysis I](Day7/ProductSalesAnlysisI/main.sql)
+[customer Who Visited but Did Not Make Any Transactions](Day7/CustWhoVisNoTransactions/main.sql)
+[Rising Temperature](Day7/RisingTemperature/main.sql)
