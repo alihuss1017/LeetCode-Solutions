@@ -53,7 +53,13 @@ Contains my poorly efficient solutions to LeetCode problems. Click the links bel
 
 
 ### Day 7: 
+[Customer Who Visited but Did Not Make Any Transactions](Day7/CustWhoVisNoTransactions/main.sql) <br>
 [Replace Employee ID With the Unique Identifier](Day7/RepEmpIDWithUniqueIdentifier/main.sql) <br>
-[Product Sales Analysis I](Day7/ProductSalesAnlysisI/main.sql) <br>
-[customer Who Visited but Did Not Make Any Transactions](Day7/CustWhoVisNoTransactions/main.sql) <br>
 [Rising Temperature](Day7/RisingTemperature/main.sql) <br>
+[Product Sales Analysis I](Day7/ProductSalesAnlysisI/main.sql) <br>
+
+### Day 8:
+[Classes More than 5 Students](Day8/ClassesMoreThan5Students/main.sql) <br>
+[Find Followers Count](Day8/FindFollowersCount/main.sql) <br>
+[Number of Unique Subjects Taught by Each Teacher](Day8/NumofUniSubByTeacher/main.sql) <br>
+[User Activity for the Past 30 Days I](Day8/UserActivityPast30DaysI/main.sql) <br>
